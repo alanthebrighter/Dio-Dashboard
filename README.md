@@ -36,6 +36,9 @@ O dashboard inclui gráficos dinâmicos e KPIs principais para facilitar a visua
 #### **Resultado Esperado**
 Um dashboard limpo e funcional que permite monitorar o desempenho das assinaturas Xbox de forma visual e interativa.
 
+![image](https://github.com/user-attachments/assets/25407f7e-fe76-4c2b-86eb-5cbd8635d292)
+
+
 --- 
 
 Essa versão mantém as informações essenciais e é ideal para quem busca uma explicação rápida e objetiva.
